@@ -1,0 +1,25 @@
+{
+  "name": "nft360",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aws-amplify": "^4.3.31",
+    "pinia": "^2.0.22",
+    "vue": "^3.2.37",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.10.0",
+    "eslint-plugin-vue": "^8.5.0",
+    "postcss": "^8.4.7",
+    "sass": "1.32.12",
+    "vite": "^3.0.7"
+  }
+}

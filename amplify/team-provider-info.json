@@ -1,0 +1,15 @@
+{
+  "production": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nft360-production-110103-authRole",
+      "UnauthRoleArn": "arn:aws:iam::600346476519:role/amplify-nft360-production-110103-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::600346476519:role/amplify-nft360-production-110103-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nft360-production-110103-deployment",
+      "UnauthRoleName": "amplify-nft360-production-110103-unauthRole",
+      "StackName": "amplify-nft360-production-110103",
+      "StackId": "arn:aws:cloudformation:us-east-1:600346476519:stack/amplify-nft360-production-110103/f64b8ea0-1d41-11ed-ae2a-0e596944f2d1",
+      "AmplifyAppId": "d1lnn6xmc1s4tt"
+    }
+  }
+}
